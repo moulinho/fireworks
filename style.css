@@ -32,11 +32,11 @@ img{
 .text-container .animated-text {
     
   position: relative;
-  background: yellowgreen;
+  /* background: yellowgreen; */
   margin: 15px auto 0;
   width: 570px;
   height: 75px;
-  box-shadow: 0 0 10px yellowgreen, 0 0 120px yellowgreen;
+  /* box-shadow: 0 0 10px yellowgreen, 0 0 120px yellowgreen; */
   overflow: hidden;
 }
 

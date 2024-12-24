@@ -10,5 +10,5 @@ function createBurst() {
         burstClone.remove(); 
     }, 20000);
 }
-setInterval(createBurst,2000)
+setInterval(createBurst,3500)
 
